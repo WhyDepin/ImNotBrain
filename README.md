@@ -9,7 +9,7 @@
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=B682FF&lines=Hallo Guys..." />
+<img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=2EB522&lines=Jangan+di+Bully+Bang%2C+masih+pemula Guys..." />
 </p>
 
 

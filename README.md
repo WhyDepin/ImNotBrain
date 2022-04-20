@@ -8,7 +8,9 @@
 > Focus Towards Achievement
 ```
 
-<Img src"https://camo.githubusercontent.com/563095d573df69251373bdd270e05d516d4cc2e4257ad099fae4e6dfb032d698/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333336424346372663656e7465723d74727565267643656e7465723d74727565266c696e65733d57656c636f6d652b746f2b6d792b70726f66696c65">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Jangan+lupa+follow+github+saya" />
+</p>
 
 
 

@@ -9,7 +9,7 @@
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%00D91E&center=true&vCenter=true&lines=Jangan+lupa+follow+github+saya" />
+<img src="https://readme-typing-svg.herokuapp.com?color=B682FF&lines=Hallo Guys..." />
 </p>
 
 

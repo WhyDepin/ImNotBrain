@@ -3,9 +3,13 @@
 </p>
 
 ```bash
-> My Age 14y.o
-> Im Beginner Programmer
-> Focus Towards Achievement
+[
+"Name": "Depin",
+"Bio": "Hanya orang biasa",
+"Addres": "Kab. Tangerang, Prov. Banten"
+"Age": "14y.o",
+"Date of birth": "16-09-2008"
+]
 ```
 
 <p align="center">
